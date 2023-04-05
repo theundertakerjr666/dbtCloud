@@ -10,36 +10,36 @@ https://cloud.getdbt.com
 
 # Key topics
 ## Models
-Explain what models are in a dbt project.
-Build your first dbt model.
-Explain how to apply modularity to analytics with dbt.
-Modularize your project with the ref function.
-Review a brief history of modeling paradigms.
-Identify common naming conventions for tables.
-Reorganize your project with subfolders.
+- Explain what models are in a dbt project.
+- Build your first dbt model.
+- Explain how to apply modularity to analytics with dbt.
+- Modularize your project with the ref function.
+- Review a brief history of modeling paradigms.
+- Identify common naming conventions for tables.
+- Reorganize your project with subfolders.
 
 ## Sources
-Explain the purpose of sources in dbt.
-Configure and select from sources in your data warehouse.
-View sources in the lineage graph.
-Check the last time sources were updated and raise warnings if stale.
+- Explain the purpose of sources in dbt.
+- Configure and select from sources in your data warehouse.
+- View sources in the lineage graph.
+- Check the last time sources were updated and raise warnings if stale.
 
 ## Tests
-Explain why testing is crucial for analytics.
-Explain the role of testing in analytics engineering.
-Configure and run generic tests in dbt.
-Write, configure, and run singular tests in dbt.
+- Explain why testing is crucial for analytics.
+- Explain the role of testing in analytics engineering.
+- Configure and run generic tests in dbt.
+- Write, configure, and run singular tests in dbt.
 
 ## Documentation
-Explain why documentation is crucial for analytics.
-Understand the documentation features of dbt.
-Write documentation for models, sources, and columns in .yml files.
-Write documentation in markdown using doc blocks.
-Generate and view documentation in development.
-View and navigate the lineage graph to understand the dependencies between models.
+- Explain why documentation is crucial for analytics.
+- Understand the documentation features of dbt.
+- Write documentation for models, sources, and columns in .yml files.
+- Write documentation in markdown using doc blocks.
+- Generate and view documentation in development.
+- View and navigate the lineage graph to understand the dependencies between models.
 
 ## Deployment
-Understand why it's necessary to deploy your project.
-Explain the purpose of creating a deployment environment.
-Schedule a job in dbt Cloud.
-Review the results and artifacts of a scheduled job in dbt Cloud.
+- Understand why it's necessary to deploy your project.
+- Explain the purpose of creating a deployment environment.
+- Schedule a job in dbt Cloud.
+- Review the results and artifacts of a scheduled job in dbt Cloud.
